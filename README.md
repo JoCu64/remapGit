@@ -1,4 +1,4 @@
 remapGit
 ========
 
-Useful PHP Codes for site.
+Useful PHP and other Codes for site.
